@@ -258,18 +258,19 @@ const LandingPage = () => {
         </div>
         <section id="about" className="section-about  p-4">
         <div className="container">
-            <h2 className="section-title">About Us</h2>
-            <p className="section-description">
-                &nbsp; &nbsp;&nbsp; &nbsp; Welcome to our Flight ticket booking app, where we are dedicated to providing you with an exceptional travel experience from start to finish. Whether you're embarking on a daily commute, planning an exciting cross-country adventure, or seeking a leisurely scenic route, our app offers an extensive selection of Flight options to cater to your unique travel preferences.
-            </p>
-            <p className="section-description">
-                &nbsp; &nbsp;&nbsp; &nbsp; We understand the importance of convenience and efficiency in your travel plans. Our user-friendly interface allows you to effortlessly browse through a wide range of Flight schedules, compare fares, and choose the most suitable seating options. With just a few taps, you can secure your Flight tickets and be one step closer to your desired destination. Our intuitive booking process enables you to customize your travel preferences, such as selecting specific departure times, opting for a window seat, or accommodating any special requirements.
-            </p>
-            <p className="section-description">
-                &nbsp; &nbsp;&nbsp; &nbsp; With our Flight ticket booking app, you can embrace the joy of exploring new destinations, immerse yourself in breathtaking scenery, and create cherished memories along the way. Start your journey today and let us be your trusted companion in making your Flight travel dreams a reality. Experience the convenience, reliability, and comfort that our app offers, and embark on unforgettable Flight adventures with confidence.
-            </p>
+                  <h2 className="section-title">About Us</h2>
+                  <p className="section-description">
+                      Welcome to our Flight Booking App! We are committed to redefining your travel experience by providing a seamless, hassle-free way to book your flights. Whether it's your daily commute, an exciting getaway, or a relaxing holiday, our platform is designed to meet all your travel needs with ease and precision.
+                  </p>
+                  <p className="section-description">
+                      Our app offers a comprehensive selection of flight options, allowing you to compare schedules, fares, and seating preferences effortlessly. The intuitive design ensures you can book your tickets in just a few clicks, with features like choosing preferred departure times, window or aisle seats, and even adding special accommodations tailored to your requirements.
+                  </p>
+                  <p className="section-description">
+                      Let us help you explore new horizons, capture beautiful memories, and embark on extraordinary adventures. Our Flight Booking App is your reliable partner for comfortable, convenient, and efficient travel planning. Get ready to discover the joy of travel with us start your journey today!
+                  </p>
 
-            <span><h5>2023 SB FlightConnect - &copy; All rights reserved</h5></span>
+
+            <span><h5>2023 Best FlightConnect - &copy; All rights reserved</h5></span>
 
         </div>
     </section>
